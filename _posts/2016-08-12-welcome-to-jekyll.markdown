@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: Shit posts
+title:  Welcome to NOTHING GTFO
 date:   2016-08-12 08:16:32 -0400
 categories: jekyll update
 ---
